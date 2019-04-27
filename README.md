@@ -1,6 +1,3 @@
-Carbohydrate Calculator with React Native
-
-
 # Carbohydrate Calculator
 
 Carbohydrate Calculator with React Native.
