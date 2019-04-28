@@ -9,6 +9,7 @@ No instructions yet.
 
 ## Built With
 
+* [Expo](https://expo.io/) - A set of tools for building native apps
 * [React Native](https://facebook.github.io/react-native/) - Mobile application framework
 * [React Native Elements](https://react-native-training.github.io/react-native-elements/) - Cross Platform React Native UI Toolkit
 
